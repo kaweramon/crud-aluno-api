@@ -1,0 +1,1 @@
+INSERT INTO usuario (id, nome, email, senha) values (1, 'Administrador', 'admin@phoebus.com.br', '$2a$10$ztIujoZAUC6KakldiYeUOOcVnIgmYZAvCMm8.5/HAl4UXeE7P0FtO');
